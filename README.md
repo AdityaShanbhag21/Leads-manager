@@ -1,22 +1,21 @@
-
-# 📌 Leads Manager - Chrome Extension
+#  Leads Manager - Chrome Extension
 
 A lightweight and efficient Chrome extension that helps you **save and manage URLs (leads)** with just a click—whether it’s an input or your current browser tab.
 
 ---
 
-## 🌟 Features
+##  Features
 
-- 🔖 Save any URL manually via an input box.
-- 📎 Save your current tab with one click.
-- 🗑️ Delete individual leads or clear all.
-- 💾 Persistent storage using `localStorage`.
-- 🌐 Opens links in new tabs directly from the list.
-- ⚙️ Simple and intuitive UI inside the popup.
+-  Save any URL manually via an input box.
+-  Save your current tab with one click.
+-  Delete individual leads or clear all.
+-  Persistent storage using `localStorage`.
+-  Opens links in new tabs directly from the list.
+-  Simple and intuitive UI inside the popup.
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 - Click the **extension icon** to open the popup.
 - Enter a URL or click **SAVE TAB** to store the current tab.
@@ -25,7 +24,7 @@ A lightweight and efficient Chrome extension that helps you **save and manage UR
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```plaintext
 📦 leads-tracker-extension/
@@ -40,7 +39,7 @@ A lightweight and efficient Chrome extension that helps you **save and manage UR
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - HTML + CSS + JavaScript (Vanilla)
 - Chrome Extensions API
@@ -48,7 +47,7 @@ A lightweight and efficient Chrome extension that helps you **save and manage UR
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. **Clone or download** this repository.
 2. Go to `chrome://extensions/`.
@@ -60,7 +59,7 @@ You’re all set! 🎉
 
 ---
 
-## ✨ Example Use Cases
+##  Example Use Cases
 
 - Saving blog links to read later
 - Bookmarking tutorials while learning
@@ -68,6 +67,6 @@ You’re all set! 🎉
 
 ---
 
-## 📃 License
+##  License
 
 MIT License — Feel free to use, modify, and share.
