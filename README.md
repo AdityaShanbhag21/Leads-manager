@@ -27,7 +27,7 @@ A lightweight and efficient Chrome extension that helps you **save and manage UR
 ##  Project Structure
 
 ```plaintext
-📦 leads-tracker-extension/
+ leads-tracker-extension/
 │
 ├── index.html         # Popup HTML structure
 ├── index.css          # Styles for the popup
@@ -54,8 +54,6 @@ A lightweight and efficient Chrome extension that helps you **save and manage UR
 3. Enable **Developer mode** (top-right).
 4. Click **Load unpacked**.
 5. Select the project folder.
-
-You’re all set! 🎉
 
 ---
 
